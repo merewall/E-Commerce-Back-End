@@ -70,28 +70,41 @@ The following acceptance criteria was used to guide the development of this proj
 7. Use Postmon or equivalent to run GET, POST, PUT, and DELETE requests for the product, category, and tag routes.
 
 _Creating the database using the schema and MySQL shell:_
-![Database creation]()
+![Database creation](https://github.com/merewall/E-Commerce-Back-End/blob/main/assets/db-create.PNG)
 
 _Seeding the database._
-![Seeding the database]()
+![Seeding the database command](https://github.com/merewall/E-Commerce-Back-End/blob/main/assets/seed-command.PNG)
+![CLI response to seeding](https://github.com/merewall/E-Commerce-Back-End/blob/main/assets/tables-seeded.PNG)
 
 _Initializing the application in the CLI._
-![Initializing the application]()
+![Initializing the application](https://github.com/merewall/E-Commerce-Back-End/blob/main/assets/start-server.PNG)
 
-_GET request for all products._  
-![GET requeset for all products]()
+_GET request for all products & response._  
+![GET request for all products](https://github.com/merewall/E-Commerce-Back-End/blob/main/assets/get-all-products.PNG)
+![JSON data response for all products](https://github.com/merewall/E-Commerce-Back-End/blob/main/assets/all-products.PNG)
 
-_GET request for product by id._  
-![GET request for one product by id]()
+_GET request for product by id & response._  
+![GET request for one product by id](https://github.com/merewall/E-Commerce-Back-End/blob/main/assets/get-product-by-id.PNG)
+![JSON response for one product by id](https://github.com/merewall/E-Commerce-Back-End/blob/main/assets/product-by-id.PNG)
 
-_POST request to create a product._  
-![POST request to create a new product]()
+_POST request to create a product & response._  
+![POST request to create a new product](https://github.com/merewall/E-Commerce-Back-End/blob/main/assets/post-product.PNG)
+![JSON body for POST request to create a new product](https://github.com/merewall/E-Commerce-Back-End/blob/main/assets/post-body-product.PNG)
+![JSON response for a new product](https://github.com/merewall/E-Commerce-Back-End/blob/main/assets/post-response.PNG)
+![GET request to view new product](https://github.com/merewall/E-Commerce-Back-End/blob/main/assets/get-afterwards.PNG)
+![JSON response of new product](https://github.com/merewall/E-Commerce-Back-End/blob/main/assets/new-product.PNG)
 
-_PUT request to update a product._  
-![PUT request to update an existing product]()
+_PUT request to update a product & response._  
+![PUT request to update an existing product](https://github.com/merewall/E-Commerce-Back-End/blob/main/assets/product-update.PNG)
+![JSON body for PUT request to update a product](https://github.com/merewall/E-Commerce-Back-End/blob/main/assets/put-body-product.PNG)
+![JSON response for an update to product](https://github.com/merewall/E-Commerce-Back-End/blob/main/assets/put-response.PNG)
+![GET request to view updated product](https://github.com/merewall/E-Commerce-Back-End/blob/main/assets/get-afterwards.PNG)
+![JSON response of updated product](https://github.com/merewall/E-Commerce-Back-End/blob/main/assets/updated-product.PNG)
 
-_DELETE request to delete a product._  
-![DELETE request to delete an existing product]()
+_DELETE request to delete a product & response._  
+![DELETE request to delete an existing product](https://github.com/merewall/E-Commerce-Back-End/blob/main/assets/delete-product.PNG)
+![GET request to view updated product](https://github.com/merewall/E-Commerce-Back-End/blob/main/assets/get-afterwards.PNG)
+![JSON response of updated product](https://github.com/merewall/E-Commerce-Back-End/blob/main/assets/product-deleted.PNG)
 
 ## LICENSE
 
