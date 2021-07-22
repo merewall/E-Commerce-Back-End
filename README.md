@@ -93,8 +93,6 @@ _PUT request to update a product._
 _DELETE request to delete a product._  
 ![DELETE request to delete an existing product]()
 
-_Gif of GET, POST, PUT, and DELETE requests for products, categories, and tags in use._  
-![E-Commerce Back-End demo gif]()
 ## LICENSE
 
 This application is licensed under the [MIT License](https://opensource.org/licenses/MIT).
@@ -116,7 +114,7 @@ No current tests for this application.
 ## LINKS
 
 * The [repository](https://github.com/merewall/E-Commerce-Back-End) for this application.
-* A [demo video]() on how to use the application.
+* A [demo video](https://drive.google.com/file/d/1D6vVmJrsDx9k0M9eUXegnXmzFvD7QQej/view!) on how to use the application.
 
 ## QUESTIONS
 
