@@ -1,5 +1,7 @@
+// Bring in Category model
 const { Category } = require('../models');
 
+// Seed data for categories
 const categoryData = [
   {
     category_name: 'Shirts',
@@ -18,6 +20,8 @@ const categoryData = [
   },
 ];
 
+// Bulk create categories for seed data in Category table
 const seedCategories = () => Category.bulkCreate(categoryData);
 
+// export the function to use in the index.js file of seeds
 module.exports = seedCategories;
